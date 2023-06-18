@@ -1,6 +1,6 @@
-<h1 align="center">Hi 👋, I'm Vibhanshu Ranjan</h1>
-<h3 align="center">I'm Vibhanshu Ranjan, a final year undergraduate at IIT Kharagpur. I am a passionate software developer and proficient in MERN stack. Also have a good understanding of Machine learning and Statistics.</h3>
-(img align="right" alt="Coding" width="400" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fin.pinterest.com%2Fpin%2F126663808259169690%2F&psig=AOvVaw1W8LG-bbiLBeF6ZHZ0R6NP&ust=1687212283810000&source=images&cd=vfe&ved=0CA4QjRxqFwoTCOiEmuXpzf8CFQAAAAAdAAAAABAE")
+<h1 align="center">Hi 👋, </h1>
+I'm Vibhanshu Ranjan, a final year undergraduate at IIT Kharagpur. I am a passionate software developer and proficient in MERN stack. Also have a good understanding of Machine learning and Statistics.
+(img align="right" alt="Coding" width="400" src="https://www.google.com/urlsa=i&url=https%3A%2F%2Fin.pinterest.com%2Fpin%2F126663808259169690%2F&psig=AOvVaw1W8LG-bbiLBeF6ZHZ0R6NP&ust=1687212283810000&source=images&cd=vfe&ved=0CA4QjRxqFwoTCOiEmuXpzf8CFQAAAAAdAAAAABAE")
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vibhanshuranjan&label=Profile%20views&color=0e75b6&style=flat" alt="vibhanshuranjan" /> </p>
 
 - 🔭 I’m currently working on **Graph Neural Network**
