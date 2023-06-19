@@ -1,6 +1,6 @@
 <h3>Hi 👋,</h3>
 
-I'm Vibhanshu Ranjan, a final year undergraduate at IIT Kharagpur. I am a passionate software developer and proficient in MERN stack. Also have a good understanding of Machine learning and Statistics.
+I'm Vibhanshu Ranjan, a final year undergraduate at IIT Kharagpur. I am a passionate software developer and proficient in MERN stack. I also have a good understanding of Machine learning and Statistics.
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/f1/e7/34/f1e734f9cade86fe737a9aa404ad5677.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vibhanshuranjan&label=Profile%20views&color=0e75b6&style=flat" alt="vibhanshuranjan" /> </p>
 
